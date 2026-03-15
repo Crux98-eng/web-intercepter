@@ -1,8 +1,10 @@
 author eric sakala coder
-setting up the project
+
+##setting up the project
 clone or fork this project or download the zip
 it does not contain a build for executable, that means you need to rebuild when running
-#Requirement
+
+##Requirement
 -marven must be installed
 -and java jdk, intelij with build in tools preferebly
 #Dependencies
